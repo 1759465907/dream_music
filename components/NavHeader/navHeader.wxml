@@ -1,0 +1,9 @@
+<view class="recommendTitle">
+  <view class="recommendLittleTitle">
+    <text>{{title}}</text>
+  </view>
+  <view class="recommendPrimTitle">
+    <text>{{nav}}</text>
+    <text class="recommendMore">查看更多</text>
+  </view>
+</view>

@@ -1,0 +1,23 @@
+/* components/NavHeader/navHeader.wxss */
+
+
+.recommendLittleTitle{
+  font-size: 28rpx;
+  color:#666;
+}
+
+.recommendPrimTitle{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.recommendMore{
+  padding: 8rpx 20rpx;
+  margin-left: auto;  
+  font-size: 24rpx;
+  color: black;
+  border-radius: 30rpx;
+  border: 1rpx solid #333;
+}
